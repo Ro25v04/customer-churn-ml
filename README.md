@@ -8,7 +8,7 @@ An end-to-end data science project that segments customers, analyzes churn behav
 
 Customer churn directly impacts revenue and long-term growth.  
 
-This project demonstrates how data analysis and machine learning can help businesses:
+This project demonstrates how data science can help businesses:
 
 - Understand customer behavior  
 - Identify high-risk, high-value customers  
