@@ -31,12 +31,16 @@ The solution combines unsupervised learning, supervised modeling, interpretabili
 
 ## 📂 Project Structure
 
+Customer-Segmentation-Churn/
+│
 ├── data/
 │ ├── raw/
 │ └── processed/
+│
 ├── models/
 │ ├── churn_model.pkl
 │ └── model_columns.pkl
+│
 ├── notebooks/
 │ ├── 01_eda.ipynb
 │ ├── 02_data_cleaning.ipynb
@@ -44,6 +48,7 @@ The solution combines unsupervised learning, supervised modeling, interpretabili
 │ ├── 04_churn_analysis.ipynb
 │ ├── 05_model_training.ipynb
 │ └── 06_model_interpretation.ipynb
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
