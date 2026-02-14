@@ -92,7 +92,7 @@ def risk_pill(p: float) -> str:
 # -----------------------
 st.markdown("## Customer Churn — Segments + Risk Dashboard")
 st.caption(
-    "Explore churn risk, segment behavior, and per-customer explanations (demo UI).")
+    "Explore churn risk, segment behavior, and per-customer explanations.")
 
 if not os.path.exists(DATA_PATH):
     st.error(
