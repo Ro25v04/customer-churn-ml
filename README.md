@@ -33,7 +33,7 @@ The solution combines unsupervised learning, supervised modeling, interpretabili
 
 ```bash
 
-Customer-Segmentation-Churn/
+Customer-Churn-ml/
 │
 ├── data/
 │   ├── raw/
