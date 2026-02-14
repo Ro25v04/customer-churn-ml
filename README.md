@@ -174,4 +174,4 @@ It simulates how churn analytics would operate inside a real organization.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app/app.py
